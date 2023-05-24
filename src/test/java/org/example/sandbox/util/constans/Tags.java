@@ -1,2 +1,5 @@
-package org.example.sandbox.util.constans;public class Tags {
+package org.example.sandbox.util.constans;
+
+public class Tags {
+    public static final String SMOKE = "smoke";
 }
